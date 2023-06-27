@@ -14,3 +14,16 @@ body {
     background-color: aliceblue;
 }
 
+/* Header */
+
+header {
+    display: flex;
+    flex-direction: column;
+}
+
+.heading {
+    font-size: 5vw;
+    width: 100%;
+    text-align: center;
+}
+
