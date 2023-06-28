@@ -67,10 +67,29 @@ header {
 .control-area {
     display: flex;
     justify-content: space-evenly;
+    margin-bottom: 2vw;
     border: 2px solid green;
 }
 
 .control-area i {
     font-size: 15vw;
     color: grey;
+}
+
+/* Choice Display Area */
+
+.question-area {
+
+    border: 2px solid orange;
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 4vw;
+    text-transform: uppercase;
+    border-radius: 50%;
+    margin-left: 4vw;
+    margin-right: 4vw;
+    margin-bottom: 2vw;
+    padding-top: 2vw;
+    padding-bottom: 2vw;
+
 }
