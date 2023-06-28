@@ -22,7 +22,9 @@ header {
 }
 
 .heading {
-    font-size: 5vw;
+    font-size: 6vw;
+    font-weight: bold;
+    text-decoration: underline;
     width: 100%;
     text-align: center;
 }
@@ -34,5 +36,14 @@ header {
     height: 200px;
     background: url('../images/Luka_vs_Dino.webp') no-repeat center center;
     border-radius: 25%;
+}
+
+/* Score board */
+
+.score-area {
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 4vw;
+    text-transform: uppercase;
 }
 
