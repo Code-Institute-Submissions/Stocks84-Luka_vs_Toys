@@ -91,5 +91,35 @@ header {
     margin-bottom: 2vw;
     padding-top: 2vw;
     padding-bottom: 2vw;
-
 }
+
+.btn-control {
+    border: 2px solid purple;
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+.btn-control button {
+    color: blue;
+    background-color: grey;
+    font-size: 4vw;
+}
+
+/* Rules button */
+
+.rules-area {
+    border: 2px solid brown;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2vw;
+}
+
+.btn-rules {
+    color: blue;
+    background-color: grey;
+    font-size: 4vw;
+}
+
+/* Footer Links */
+
