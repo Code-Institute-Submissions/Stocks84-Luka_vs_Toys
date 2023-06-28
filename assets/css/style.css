@@ -32,10 +32,14 @@ header {
 /* Hero image */
 
 #hero-image {
+    display: flex;
+    justify-content: space-around;
     width: 100%;
     height: 200px;
     background: url('../images/Luka_vs_Dino.webp') no-repeat center center;
     border-radius: 25%;
+    border: 2px dashed black;
+    margin-bottom: 2vw;
 }
 
 /* Score board */
@@ -51,12 +55,4 @@ header {
     margin-right: 4vw;
     padding-top: 2vw;
     padding-bottom: 2vw;
-}
-
-#hero-image {
-    width: 100%;
-    height: 200px;
-    background: url('../images/Luka_vs_Dino.webp') no-repeat center center;
-    border-radius: 25%;
-    margin-bottom: 2vw;
 }
