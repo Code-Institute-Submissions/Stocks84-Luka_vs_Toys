@@ -23,3 +23,25 @@ function getResult(playerChoice, computerChoice) {
     }
     return score
 }
+
+// Calculates who won and shows it on the screen
+
+function onClickVLDS(playerChoice) {
+    console.log({playerChoice})
+    const computerChoice = getComputerChoice()
+    console.log({computerChoice})
+    const score = getResult(playerChoice, computerChoice)
+    console.log({score})
+}
+
+// Make the VLD buttons actively listen for a click and do something once a click is detected
+
+function playGame() {
+    const vldButtons = document.querySelectorAll('.vldButton')
+    
+    vldButtons.forEach(vldButton => {
+        vldButton.onclick = () => onClickVLDS(vldButton.value)
+    })
+}
+
+playGame()
