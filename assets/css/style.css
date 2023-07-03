@@ -68,6 +68,7 @@ header {
     display: flex;
     justify-content: space-evenly;
     margin-bottom: 2vw;
+    place-items: center;
     border: 2px solid green;
 }
 
@@ -121,5 +122,17 @@ header {
     font-size: 4vw;
 }
 
-/* Footer Links */
+/* Footer  nav Links */
+
+.youtube-links {
+    border: 2px solid greenyellow;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+.youtube-links i {
+    font-size: 12vw;
+    color: grey;
+}
 
