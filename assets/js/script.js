@@ -1,3 +1,5 @@
+const totalScore = {playerScore: 0, computerScore: 0}
+
 // getComputerChoice randomly selects between `viking` luka` `dino` and returns that string
 
 function getComputerChoice () {
@@ -24,6 +26,27 @@ function getResult(playerChoice, computerChoice) {
     return score
 }
 
+// showResult updates the DOM to 'You Win' or 'You Lose' or 'Its a draw' based on the score. 
+// Also shows Player choice vs Computet choice
+
+function showResult(score, playerChoice, computerChoice) {
+
+    const resultSpan = document.getElementById('result')
+    const playerScoreSpan = document.getElementById('player-score')
+    const gameChoiceSpan = document.getElementById('game-choice')
+    const computerScoreSpan = document.getElementById('computer-score')
+
+    if (score == -1) {
+        resultSpan.innerText = 'You Lose!'
+    } else if (score == -1) {
+        resultSpan.innerText = "Oh it's a Draw"
+    } else {
+        resultSpan.innerText = 'You Won!'
+    }
+
+    gameChoiceSpan.innerText = `${playerChoice} vs ${computerChoice}`
+    playerScoreSpan.innerText = totalScore['playerScore']
+}
 // Calculates who won and shows it on the screen
 
 function onClickVLDS(playerChoice) {
@@ -31,7 +54,10 @@ function onClickVLDS(playerChoice) {
     const computerChoice = getComputerChoice()
     console.log({computerChoice})
     const score = getResult(playerChoice, computerChoice)
+    totalScore['playerScore'] += score
     console.log({score})
+    console.log(totalScore)
+    showResult(score, playerChoice, computerChoice)
 }
 
 // Make the VLD buttons actively listen for a click and do something once a click is detected
