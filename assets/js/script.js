@@ -68,6 +68,25 @@ function playGame() {
     vldButtons.forEach(vldButton => {
         vldButton.onclick = () => onClickVLDS(vldButton.value)
     })
+
+    const resetGameButton = document.getElementById('btn-reset')
+    resetGameButton.onclick = () => resetGame(totalScore)
+}
+
+// resetGame function clears all the text on the DOM
+
+function resetGame(totalScore) {
+    totalScore['playerScore'] = 0
+    totalScore['computerScore'] = 0
+
+    const resultSpan = document.getElementById('result')
+    const playerScoreSpan = document.getElementById('player-score')
+    const gameChoiceSpan = document.getElementById('game-choice')
+
+    resultSpan.innerText = ''
+    playerScoreSpan.innerText = ''
+    gameChoiceSpan.innerText = ''
+
 }
 
 playGame()
