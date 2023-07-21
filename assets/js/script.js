@@ -40,7 +40,7 @@ function showResult(score, playerChoice, computerChoice) {
     if (score == -1) {
         resultSpan.innerText = 'You Lose!'
     } else if (score == 0) {
-        resultSpan.innerText = "Boring Draw"
+        resultSpan.innerText = "Draw"
     } else {
         resultSpan.innerText = 'You Won!'
     }
