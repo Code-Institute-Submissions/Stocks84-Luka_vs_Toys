@@ -27,25 +27,27 @@ function getResult(playerChoice, computerChoice) {
 }
 
 // showResult updates the DOM to 'You Win' or 'You Lose' or 'Its a draw' based on the score. 
-// Also shows Player choice vs Computet choice
+// Also shows Player choice vs Computer choice
 
 function showResult(score, playerChoice, computerChoice) {
 
     const resultSpan = document.getElementById('result')
     const playerScoreSpan = document.getElementById('player-score')
-    const gameChoiceSpan = document.getElementById('game-choice')
     const computerScoreSpan = document.getElementById('computer-score')
+    const gameChoiceSpan = document.getElementById('game-choice')
+    
 
     if (score == -1) {
         resultSpan.innerText = 'You Lose!'
-    } else if (score == -1) {
-        resultSpan.innerText = "Oh it's a Draw"
+    } else if (score == 0) {
+        resultSpan.innerText = "Boring Draw"
     } else {
         resultSpan.innerText = 'You Won!'
     }
 
     gameChoiceSpan.innerText = `${playerChoice} vs ${computerChoice}`
     playerScoreSpan.innerText = totalScore['playerScore']
+    computerScoreSpan.innerText = totalScore['computerScore']
 }
 // Calculates who won and shows it on the screen
 
@@ -55,6 +57,7 @@ function onClickVLDS(playerChoice) {
     console.log({computerChoice})
     const score = getResult(playerChoice, computerChoice)
     totalScore['playerScore'] += score
+    totalScore['computerScore'] -= score
     console.log({score})
     console.log(totalScore)
     showResult(score, playerChoice, computerChoice)
