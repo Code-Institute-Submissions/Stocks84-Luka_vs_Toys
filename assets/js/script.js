@@ -84,10 +84,12 @@ function resetGame(totalScore) {
 
     const resultSpan = document.getElementById('result')
     const playerScoreSpan = document.getElementById('player-score')
+    const computerScoreSpan = document.getElementById('computer-score')
     const gameChoiceSpan = document.getElementById('game-choice')
 
     resultSpan.innerText = ''
     playerScoreSpan.innerText = ''
+    computerScoreSpan.innerText = ''
     gameChoiceSpan.innerText = ''
 
 }
