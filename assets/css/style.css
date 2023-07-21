@@ -64,6 +64,18 @@ header {
     border: 2px solid red;
 }
 
+.viking {
+
+}
+
+.luka {
+
+}
+
+.dino {
+    
+}
+
 .control-area {
     display: flex;
     justify-content: space-evenly;
