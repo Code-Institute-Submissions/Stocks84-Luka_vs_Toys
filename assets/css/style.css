@@ -185,3 +185,39 @@ h2 {
     color: lightgrey;
 }
 
+/* Rules Page */
+
+.linkHome {
+    color: darkgreen;
+    text-decoration: none;
+}
+
+.rules-list {
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+    margin-top: 4vw;
+    margin-bottom: 4vw;
+    font-size: 4vw;
+}
+
+.instructions {
+    color: darkred;
+    font-size: 3vw;
+    text-align: center;
+}
+
+.back {
+    display: flex;
+    justify-content: center;
+    margin-top: 4vw;
+}
+
+.back-btn {
+    
+    color: darkgreen;
+    text-transform: uppercase;
+    text-decoration: none;
+    background-color: transparent;
+    font-size: 4vw;
+}
