@@ -11,7 +11,7 @@ body {
     font-family: 'Andika', sans-serif;
     font-style: normal;
     color: darkgreen;
-    background-image: linear-gradient(to bottom right, #768692, #918a6e);
+    background-image: linear-gradient(to bottom right, #918a6e, #768692);
 }
 
 /* Header */
@@ -54,8 +54,10 @@ header {
     margin-left: 4vw;
     margin-right: 4vw;
     margin-bottom: 2vw;
-    padding-top: 2vw;
-    padding-bottom: 2vw;
+    padding-top: 3vw;
+    padding-bottom: 3vw;
+    padding-left: 2vw;
+    padding-right: 2vw;
 }
 
 #player-score {
@@ -73,7 +75,8 @@ header {
 /* Choice icons */
 
 .game-area {
-    border: 2px solid red;
+    border: 2px solid lightgrey;
+    padding-top: 2vw;
 }
 
 #viking {
@@ -82,7 +85,7 @@ header {
     width: 20vw;
     height: 100%;
     object-fit: cover;
-    border: 2px solid red;
+    border: 2px solid darkgreen;
 }
 
 #luka {
@@ -92,7 +95,6 @@ header {
     height: 100%;
     object-fit: cover;
     border-radius: 50%;
-    border: 2px solid red;
     padding: 2vw 2vw 2vw 2vw;
 }
 
@@ -102,7 +104,7 @@ header {
     width: 20vw;
     height: 100%;
     object-fit: cover;
-    border: 2px solid red;
+    border: 2px solid darkgreen;
 }
 
 .control-area {
@@ -110,12 +112,10 @@ header {
     justify-content: space-evenly;
     margin-bottom: 2vw;
     place-items: center;
-    border: 2px solid green;
 }
 
-.control-area i {
-    font-size: 15vw;
-    color: grey;
+.control-area img {
+    background-color: transparent;
 }
 
 /* Choice Display Area */
