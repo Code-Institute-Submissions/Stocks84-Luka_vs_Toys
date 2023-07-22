@@ -150,7 +150,7 @@ h2 {
 .btn-control button {
     color: darkgreen;
     text-transform: uppercase;
-    background-color: grey;
+    background-color: transparent;
     font-size: 4vw;
     margin-top: 6vw;
     margin-bottom: 6vw;
@@ -167,21 +167,21 @@ h2 {
 .btn-rules {
     color: darkred;
     text-transform: uppercase;
-    background-color: grey;
+    background-color: transparent;
     font-size: 4vw;
 }
 
 /* Footer nav Links */
 
 .youtube-links {
-    border: 2px solid greenyellow;
     display: flex;
     justify-content: space-evenly;
     list-style-type: none;
+    margin-top: 6vw;
 }
 
 .youtube-links i {
     font-size: 12vw;
-    color: grey;
+    color: lightgrey;
 }
 
