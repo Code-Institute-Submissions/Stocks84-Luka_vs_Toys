@@ -74,6 +74,13 @@ header {
 
 /* Choice icons */
 
+h2 {
+        font-size: 4vw;
+        font-weight: bold;
+        width: 100%;
+        text-align: center;
+}
+
 .game-area {
     border: 2px solid lightgrey;
     padding-top: 2vw;
@@ -114,18 +121,15 @@ header {
     place-items: center;
 }
 
-.control-area img {
-    background-color: transparent;
-}
-
 /* Choice Display Area */
 
 .question-area {
 
-    border: 2px solid orange;
+    border: 2px solid lightgray;
     display: flex;
     justify-content: space-evenly;
     font-size: 4vw;
+    color: darkred;
     text-transform: uppercase;
     border-radius: 50%;
     margin-left: 4vw;
