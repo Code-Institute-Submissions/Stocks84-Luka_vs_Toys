@@ -363,11 +363,11 @@ h2 {
     }
 
     .heading {
-        font-size: 3vw;
+        font-size: 2vw;
     }
 
     .score-area {
-        font-size: 2vw;
+        font-size: 1vw;
         margin-left: 1vw;
         margin-right: 1vw;
         margin-bottom: 1vw;
@@ -378,19 +378,19 @@ h2 {
     }
     
     #viking {
-        width: 8vw;
+        width: 5vw;
     }
     
     #luka {
-        width: 13vw;
+        width: 7vw;
     }
     
     #dino {
-        width: 8vw;
+        width: 5vw;
     }
 
     .question-area {
-        font-size: 3vw;
+        font-size: 1vw;
         margin-left: 1vw;
         margin-right: 1vw;
         padding-top: 1vw;
@@ -412,7 +412,7 @@ h2 {
     }
     
     .youtube-links i {
-        font-size: 6vw;
+        font-size: 3vw;
     }
 
     /* rules list */
