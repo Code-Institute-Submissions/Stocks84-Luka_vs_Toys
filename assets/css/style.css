@@ -1,4 +1,4 @@
-/* Font */
+/* font */
 @import url('https://fonts.googleapis.com/css2?family=Andika&display=swap');
 
 * {
@@ -14,7 +14,7 @@ body {
     background-image: linear-gradient(to bottom right, #f3d265, #768692);
 }
 
-/* Header */
+/* header */
 
 header {
     display: flex;
@@ -29,7 +29,7 @@ header {
     text-align: center;
 }
 
-/* Hero image */
+/* hero image */
 
 #hero-image {
     display: flex;
@@ -42,7 +42,7 @@ header {
     margin-bottom: 2vw;
 }
 
-/* Score board */
+/* score board */
 
 .score-area {
     display: flex;
@@ -72,7 +72,7 @@ header {
     color: aliceblue;
 }
 
-/* Choice icons */
+/* choice icons */
 
 h2 {
         font-size: 4vw;
@@ -123,7 +123,7 @@ h2 {
     place-items: center;
 }
 
-/* Choice Display Area */
+/* choice display area */
 
 .question-area {
 
@@ -156,7 +156,7 @@ h2 {
     margin-bottom: 6vw;
 }
 
-/* Rules button */
+/* rules button */
 
 .rules-area {
     display: flex;
@@ -185,7 +185,7 @@ h2 {
     color: lightgrey;
 }
 
-/* Rules Page */
+/* rules page */
 
 .linkHome {
     color: darkgreen;
@@ -220,4 +220,24 @@ h2 {
     text-decoration: none;
     background-color: transparent;
     font-size: 4vw;
+}
+
+/* media queries */
+
+/* small tablet */
+
+@media (min-width: 500px) {
+
+}
+
+/* tablet */
+
+@media (min-width: 750px) {
+
+}
+
+/* desktop */
+
+@media (min-width: 950px) {
+    
 }
