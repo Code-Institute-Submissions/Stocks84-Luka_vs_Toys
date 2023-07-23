@@ -353,6 +353,11 @@ h2 {
 /* desktop */
 
 @media (min-width: 950px) {
+    
+    #hero-image {
+        height: 500px;
+    }
+    
     .heading {
         font-size: 4vw;
     }
