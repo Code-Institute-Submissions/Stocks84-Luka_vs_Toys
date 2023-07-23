@@ -359,15 +359,15 @@ h2 {
 @media (min-width: 900px) {
     
     #hero-image {
-        height: 350px;
+        height: 300px;
     }
 
     .heading {
-        font-size: 4vw;
+        font-size: 3vw;
     }
 
     .score-area {
-        font-size: 3vw;
+        font-size: 2vw;
         margin-left: 1vw;
         margin-right: 1vw;
         margin-bottom: 1vw;
@@ -378,19 +378,19 @@ h2 {
     }
     
     #viking {
-        width: 10vw;
+        width: 8vw;
     }
     
     #luka {
-        width: 15vw;
+        width: 13vw;
     }
     
     #dino {
-        width: 10vw;
+        width: 8vw;
     }
 
     .question-area {
-        font-size: 6vw;
+        font-size: 3vw;
         margin-left: 1vw;
         margin-right: 1vw;
         padding-top: 1vw;
@@ -399,12 +399,12 @@ h2 {
     }
 
      .btn-control button {
-        font-size: 2vw;
+        font-size: 1vw;
         margin-top: 1vw;
     }
     
     .btn-rules {
-        font-size: 2vw;
+        font-size: 1vw;
     }
 
     .youtube-links {
