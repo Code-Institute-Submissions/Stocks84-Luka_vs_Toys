@@ -81,3 +81,13 @@ The icons used for the links were chosen as they best indicate what the child’
 -	Both buttons large and clear.
 
 ![screenshot](documentation/buttons.png)
+
+### Navigation Links
+
+-	This feature is the extra content.
+-	Each icon links to a ‘youTube’ playlist that the child likes.
+-	The first icon is reference to ‘Paw Patrol’, the second to ‘music’, and the third to the child favourite football team highlights.
+-	The icons are large and in Light Gray so they stand out clearly. 
+
+![screenshot](documentation/navigation.png)
+
