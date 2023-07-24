@@ -91,3 +91,14 @@ The icons used for the links were chosen as they best indicate what the child’
 
 ![screenshot](documentation/navigation.png)
 
+### Rules Page
+
+-	This page is mainly for the adults, so they describe to the child how the game works and how to use the features.
+-	Two ways to return to the game page.
+-	First the title is linked back to the game for easy access.
+
+![screenshot](documentation/title-nav.png)
+
+-	Second the button labelled ‘Game Page’.
+
+![screenshot](documentation/return.png)
