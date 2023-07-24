@@ -31,3 +31,14 @@ The use of the ‘Andika’ font was primarily used due to it’s more fun appea
 The icons used for the links were chosen as they best indicate what the child’s interests are.
 
 -   [Font Awesome](https://fontawesome.com) icons were used as the ‘youTube’ icons in the footer.
+
+## Features
+
+### Title
+
+-	Featured at the top of the page, it is in the centre and underlined like you would do if you were doing some homework.
+-	The font makes it less formal and friendlier for the user.
+-	The Dark Green makes it stand out and goes well with the background colour.
+
+![screenshot](documentation/title.png)
+
