@@ -73,3 +73,11 @@ The icons used for the links were chosen as they best indicate what the child’
 -	The colour was used to break the LVT up and make it clear that this is the choice area.
 
 ![screenshot](documentation/choice-area.png)
+
+### Buttons
+
+-	First button resets the game.
+-	Second button takes you to the rules page.
+-	Both buttons large and clear.
+
+![screenshot](documentation/buttons.png)
