@@ -42,3 +42,26 @@ The icons used for the links were chosen as they best indicate what the child’
 
 ![screenshot](documentation/title.png)
 
+### Hero Image
+
+-	The hero image is playful, imaginative and appeals to a young child.
+-	The rounded border gives it a softer look and a feel of looking through a telescope. A child on an adventure. 
+
+![screenshot](documentation/hero-img.png)
+
+### Score Board
+
+-	The rounded border is in keeping with the hero image and breaks up the LVT. The light grey colour used compliments the background.
+-	The score board automatically updates the score. It also tells the user whether they ‘Won, Lose, or Draw’.
+-	Green, Aliceblue, Red colours were used for the font. This was to make it clear who was playing, what the score is, and what the result was. Also in keeping with the clients wishes of having the child’s favourite colour being used. 
+
+![screenshot](documentation/score-board.png)
+
+### Game Icons
+
+-	The text above the icons is to make it clear that you can choose them.
+-	The Viking and Dino Icons are bespoke for the child, designed using pixel art.
+-	The image of the child was placed in the centre and is slightly larger than the other two icons. This is to personalise LVT.
+-	On clicking one of the three icons it will initiate the start of the game. The score board and results will be updated above. Below the players choice and the computers random choice will be displayed.  
+
+![screenshot](documentation/game-icons.png)
