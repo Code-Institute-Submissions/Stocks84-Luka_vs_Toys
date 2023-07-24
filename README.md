@@ -166,3 +166,14 @@ I've tested my deployed project on multiple devices to check for responsiveness 
 | Mobile (DevTools) | ![screenshot](documentation/responsive-mobile.png) | Works as expected |
 | Tablet (DevTools) | ![screenshot](documentation/responsive-tablet.png) | Works as expected |
 | Desktop | ![screenshot](documentation/responsive-desktop.png) | Works as expected |
+
+## Lighthouse Audit
+
+I've tested my deployed project using the Lighthouse Audit tool to check for any major issues.
+
+| Page | Size | Screenshot | Notes |
+| --- | --- | --- | --- |
+| Home | Mobile | ![screenshot](documentation/lighthouse-home-mob.png) | Some minor warnings |
+| Home | Desktop | ![screenshot](documentation/lighthouse-home-desktop.png) | Few warnings |
+| Rules | Mobile | ![screenshot](documentation/lighthouse-rules-mob.png) | Some minor warnings |
+| Rules | Desktop | ![screenshot](documentation/lighthouse-rules-desktop.png) | Few warnings |
