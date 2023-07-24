@@ -114,3 +114,24 @@ The icons used for the links were chosen as they best indicate what the child’
 -	Add more games in the future and allow the site to evolve.
 -	More challenging games as the child grows older. 
 
+
+# Testing
+
+
+## Code Validation
+
+
+### HTML
+
+I have used the recommended [HTML W3C Validator](https://validator.w3.org) to validate all of my HTML files.
+
+
+| Page | W3C URL | Screenshot | Notes |
+| --- | --- | --- | --- |
+| Home | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Fstocks84.github.io%2FLuka_vs_Toys%2Findex.html) | ![screenshot](documentation/html-validation-home.png) | Section lacks header h2-h6 warning |
+| Contact | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2FStocks84.github.io%2FLuka_vs_Toys%2Fcontact.html) | ![screenshot](documentation/html-validation-contact.png) | obsolete iframe warnings |
+| Quiz | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2FStocks84.github.io%2FLuka_vs_Toys%2Fquiz.html) | ![screenshot](documentation/html-validation-quiz.png) | Pass: No Errors |
+| Add Blog | n/a | ![screenshot](documentation/html-validation-add-blog.png) | Duplicate IDs found, and fixed |
+| Checkout | n/a | ![screenshot](documentation/html-validation-checkout.png) | Pass: No Errors |
+| x | x | x | repeat for all remaining HTML files |
+
