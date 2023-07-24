@@ -177,3 +177,9 @@ I've tested my deployed project using the Lighthouse Audit tool to check for any
 | Home | Desktop | ![screenshot](documentation/lighthouse-home-desktop.png) | Few warnings |
 | Rules | Mobile | ![screenshot](documentation/lighthouse-rules-mob.png) | Some minor warnings |
 | Rules | Desktop | ![screenshot](documentation/lighthouse-rules-desktop.png) | Few warnings |
+
+## Bugs
+
+## Unfixed Bugs
+
+There are no remaining bugs that I am aware of.
