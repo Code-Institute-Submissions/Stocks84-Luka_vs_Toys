@@ -214,3 +214,13 @@ The live link can be found [here](https://stocks84.github.io/Luka_vs_Toys)
 | [youTube](https://youtube.com) | entire site | image | playlists for the client |
 | [TinyPNG](https://tinypng.com) | entire site | image | tool for image compression |
 | [fontawesome](https://fontawesome.com) | entire site | icons | icons for nav links |
+
+### Acknowledgements
+
+- I would like to thank my Code Institute mentor, [Tim Nelson](https://github.com/TravelTimN) for their support throughout the development of this project.
+- I would like to thank the [Code Institute](https://codeinstitute.net) tutor team for their assistance with my issues over the last couple of months. It hasn't been easy but the time given has helped with the pain.
+- I would like to thank the [Code Institute Slack community](https://code-institute-room.slack.com) for the moral support; it kept me going during periods of self doubt and imposter syndrome.
+- I would like to thank my partner Sanja, for believing in me, and allowing me to make this transition into software development.
+- I would like to thank my parents, for supporting me in my career development change towards becoming a software developer.
+
+
