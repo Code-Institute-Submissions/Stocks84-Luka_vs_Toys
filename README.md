@@ -13,3 +13,21 @@ For the design of LVT I had to take account of what the client wanted:
 -   Include the favourite toys, The Viking, The Dino.
 -   Make it personal to the child.
 -   Add any extra features than just the game.
+
+### Colour Scheme
+
+The background colour I used a linear gradient starting with a warm Yellow into a cool Grey, going from the top left to the bottom right. It gives a certain day to night feel to the LVT. Also contrasts well with the other colours.
+
+For the main text I used a Dark Red and a Dark Green. These colours stand out very well with the background colour also it hits one of the client’s design criteria (the child’s favourite colours)
+
+For the icons at the footer, I used a light grey as the background colour gets darker nearer the bottom of LVT.
+
+### Typography
+
+The use of the ‘Andika’ font was primarily used due to it’s more fun appearance. As LVT is designed for a child it is less formal, however it is still clear and easy to read.
+
+-	[Andika](https://fonts.googleapis.com/css2?family=Andika&display=swap) was used for all the text in LVT.
+
+The icons used for the links were chosen as they best indicate what the child’s interests are.
+
+-   [Font Awesome](https://fontawesome.com) icons were used as the ‘youTube’ icons in the footer.
