@@ -139,4 +139,14 @@ I have used the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-val
 | --- | --- | --- | --- |
 | style.css | [Jigsaw](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2FStocks84.github.io%2FLuka_vs_Toys) | ![screenshot](documentation/css-validation-style.png) | Pass: No Errors |
 
+### JavaScript
+
+I have used the recommended [JShint Validator](https://jshint.com) to validate all of my JS files.
+
+| File | Screenshot | Notes |
+| --- | --- | --- |
+| script.js | ![screenshot](documentation/js-validation-script.png) | ? |
+
+
+
 
