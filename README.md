@@ -131,3 +131,12 @@ I have used the recommended [HTML W3C Validator](https://validator.w3.org) to va
 | Home | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Fstocks84.github.io%2FLuka_vs_Toys%2Findex.html) | ![screenshot](documentation/html-validation-home.png) | Section lacks header h2-h6 warning and fixed |
 | Rules Page | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2FStocks84.github.io%2FLuka_vs_Toys%2Fcontact.html) | ![screenshot](documentation/html-validation-rules.png) | Section lacks header h2-h6 warning and fixed  |
 
+### CSS
+
+I have used the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-validator) to validate all of my CSS files.
+
+| File | Jigsaw URL | Screenshot | Notes |
+| --- | --- | --- | --- |
+| style.css | [Jigsaw](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2FStocks84.github.io%2FLuka_vs_Toys) | ![screenshot](documentation/css-validation-style.png) | Pass: No Errors |
+
+
