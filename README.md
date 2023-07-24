@@ -102,3 +102,15 @@ The icons used for the links were chosen as they best indicate what the child’
 -	Second the button labelled ‘Game Page’.
 
 ![screenshot](documentation/return.png)
+
+## Future Features
+
+### Gallery Page
+
+-	This would allow the child to see all the images of the good times they have had. Adding to that personal feel.
+
+### Games
+
+-	Add more games in the future and allow the site to evolve.
+-	More challenging games as the child grows older. 
+
