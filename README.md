@@ -204,3 +204,13 @@ The live link can be found [here](https://stocks84.github.io/Luka_vs_Toys)
 | [Flexbox Froggy](https://flexboxfroggy.com/) | entire site | modern responsive layouts |
 | [Coding All-in-one] Book| entire site | CSS styling |
 | [W3Schools](https://www.w3schools.com/js/default.asp) | JS script | functions & else if |
+
+### Media
+
+| Source | Location | Type | Notes |
+| --- | --- | --- | --- |
+| [Favicon Generator](https://realfavicongenerator.net) | entire site | image | favicon on all pages |
+| [Pexels](https://www.pexels.com) | home & rules page | image | hero image background |
+| [youTube](https://youtube.com) | entire site | image | playlists for the client |
+| [TinyPNG](https://tinypng.com) | entire site | image | tool for image compression |
+| [fontawesome](https://fontawesome.com) | entire site | icons | icons for nav links |
