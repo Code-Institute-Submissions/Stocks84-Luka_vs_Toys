@@ -65,3 +65,11 @@ The icons used for the links were chosen as they best indicate what the child’
 -	On clicking one of the three icons it will initiate the start of the game. The score board and results will be updated above. Below the players choice and the computers random choice will be displayed.  
 
 ![screenshot](documentation/game-icons.png)
+
+### Choice Area
+
+-	The rounded border in keeping with the LVT.
+-	Once a game icon is clicked the players choice and computers random choice will automatically appear. This will make it clear what choices were made and why the result was given.
+-	The colour was used to break the LVT up and make it clear that this is the choice area.
+
+![screenshot](documentation/choice-area.png)
