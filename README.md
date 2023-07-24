@@ -147,6 +147,12 @@ I have used the recommended [JShint Validator](https://jshint.com) to validate a
 | --- | --- | --- |
 | script.js | ![screenshot](documentation/js-validation-script.png) | ? |
 
+## Browser Compatibility
 
+I've tested my deployed project on multiple browsers to check for compatibility issues.
 
-
+| Browser | Screenshot | Notes |
+| --- | --- | --- |
+| Chrome | ![screenshot](documentation/browser-chrome.png) | Works as expected |
+| Firefox | ![screenshot](documentation/browser-firefox.png) | Works as expected |
+| Safari | ![screenshot](documentation/browser-safari.png) | Works as expected |
