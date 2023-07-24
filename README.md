@@ -5,3 +5,11 @@ The Luka vs Toys (LVT) website is typically aimed for a child aged between 4 & 6
 LVT is a simple to use website that can be used on a mobile, tablet, or computer and designed with a child in mind. Please see UX section for more detail for the bespoke design.
 
 ![screenshot](documentation/mockup_LVT.png)
+
+## UX
+
+For the design of LVT I had to take account of what the client wanted:
+-   Include favourite colours such as Red, Green, Yellow, and Grey.
+-   Include the favourite toys, The Viking, The Dino.
+-   Make it personal to the child.
+-   Add any extra features than just the game.
